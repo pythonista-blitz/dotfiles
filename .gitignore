@@ -1,0 +1,5 @@
+.zcompdump
+.zshrc_local
+.zsh_sessions/
+
+.zsh/token.zsh
